@@ -1,0 +1,4 @@
+image,prompt,detector_score,sam_score,mask_area_%
+dress.jpeg,dress,0.628,0.995,22.1
+pants.jpeg,pants,0.291,0.998,18.0
+shirt.jpeg,shirt,0.084,0.971,38.9
